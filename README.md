@@ -7,6 +7,6 @@ Network can remember 3 different images (in form of star drawings)  of numbers: 
 
 **Files**
 
-+ Hopfield_net.py --> programm that realises previously mentioned objectivei n a form of a script
++ Hopfield_net.py --> programm that realises previously mentioned objective in a form of a script
 + Sieć Hopfielda.ipynb --> notebook with functions and codes that can generate hopfield network. This is an alternative to above mentioned script
-+  Siec_Hopfielda.pdf --> a short paper on inner workings of Hopfield Network
++ Siec_Hopfielda.pdf --> a short paper on inner workings of Hopfield Network
