@@ -1,7 +1,7 @@
 # Hopfield Network
 Repository with simple Hopfield Network both in form of Notebook and python written script.
 
-**Programm purpose**
+**Program purpose**
 
 Network can remember 3 different images (in form of star drawings)  of numbers: 1, 2, 3. Then, on by feeding the network incomplete matrixes that represent corrupted images of learned numbers, network reconstruct images and outputs  complete image that was saved in its memory. Purpose of this progamm is to simply visualize inner workings of Hopfield Network. By no mean it is a comprehensive method to learn,input and predict with Hopfield Network model.
 
